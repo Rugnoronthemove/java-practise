@@ -1,4 +1,4 @@
-package corejava.statements.conditional;
+package corejava.statements.Iteration;
 
 public class ForLoopExample {
 
