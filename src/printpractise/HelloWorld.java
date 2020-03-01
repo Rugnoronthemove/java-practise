@@ -2,7 +2,7 @@ package printpractise;
 
 public class HelloWorld {
 
-    public static void main(String[] args){
+    public static void main(String[] args) {
 
         System.out.println("Hello");
         System.out.println("World");
@@ -11,5 +11,5 @@ public class HelloWorld {
         System.out.print("world");
 
 
-            }
+    }
 }
